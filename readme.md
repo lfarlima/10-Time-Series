@@ -33,3 +33,4 @@
 
 ### Regression Analysis:
 * *The out-of-sample RMSE (0.415) is lower than the in-sample RMSE (0.596). A lower RMSE for training data (in-sample RMSE) indicates a good fit, yet this model has a higher in-sample RMSE. In other words, the model performed better on the testing  data (out-of-sample RMSE) which it had never seen before. Therefore, I would NOT recommend using the predictions from this model.
+
